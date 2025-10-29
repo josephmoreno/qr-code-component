@@ -22,7 +22,7 @@ QR code card component made with HTML and CSS
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-card-Uq4FTMCiQI](https://www.frontendmentor.io/solutions/qr-code-card-Uq4FTMCiQI)
 - Live Site URL: [https://josephmoreno.github.io/qr-code-component/](https://josephmoreno.github.io/qr-code-component/)
 
 ## My process
